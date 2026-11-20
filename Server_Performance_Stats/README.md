@@ -17,4 +17,4 @@ Getting Started
    sudo ./server_stats.sh
    ```
    
-[https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+Project URL: [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
