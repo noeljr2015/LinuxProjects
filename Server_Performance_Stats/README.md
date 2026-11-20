@@ -1,4 +1,5 @@
 Server Performance Stats
+
 A bash script to analyze basic server performance stats on any Linux machine.
 
 Getting Started
@@ -16,4 +17,4 @@ Getting Started
    sudo ./server_stats.sh
    ```
    
-https://roadmap.sh/projects/server-stats
+[https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
